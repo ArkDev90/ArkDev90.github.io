@@ -215,7 +215,7 @@ strong {
 }
 
 small, .small {
-  font-size: 0.875em;
+  font-size: 0.70em;
 }
 
 mark, .mark {
@@ -11297,13 +11297,15 @@ html {
   height: 100%;
 }
 
+
+
 .content-section {
-  padding-top: 7.5rem;
+  padding-top: 2rem;
   padding-bottom: 7.5rem;
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .content-section-heading h3, .content-section-heading .h3 {
   font-size: 1rem;
